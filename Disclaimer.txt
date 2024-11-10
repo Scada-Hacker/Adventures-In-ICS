@@ -1,0 +1,8 @@
+
+Disclaimer
+
+This software is provided as-is, without any express or implied warranties. The creators, developers, and distributors of this software do not endorse or condone any use of this software for malicious, illegal, or unauthorized purposes. This software is intended solely for legitimate use in compliance with all applicable laws, regulations, and terms of service. Users assume full responsibility for their actions and for ensuring that their use of this software complies with all relevant laws and ethical standards.
+
+By using this software, you agree that the creators, developers, and distributors shall not be held liable for any damages, losses, or legal consequences arising from misuse. Misuse of this software for unauthorized access, data tampering, security breaches, or any activity that infringes upon the rights or privacy of others is strictly prohibited.
+
+Please use this software responsibly and for its intended, lawful purposes.
